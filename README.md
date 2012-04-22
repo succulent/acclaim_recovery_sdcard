@@ -64,5 +64,11 @@ First time booting sequence,
 - 2 androids logo (wait up to a minute)
 - CM7 android logo (wait up to a couple minutes)
 
+Files
+- flash_recovery.zip (use to flash it. no more sdcard recovery)
+- Hold Power & "n button" down until the device turns on and off again. 
+- Then press Power to turn the device on normally and access the recovery. 
+- flash_boot.zip (backup boot.img if needed to reflash)
+
 -HD (succulent on XDA)
 http://forum.xda-developers.com/showthread.php?t=1545766
