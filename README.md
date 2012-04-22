@@ -73,6 +73,8 @@ Other flashable Files
 - You can also boot to recovery by issuing command "reboot recovery" in adb or terminal
 - flash_boot.zip (a backup boot.img if needed to reflash)
 - DO NOT FLASH it with other rom besides the rom created with these source and kernel.
+- flash_stock_recovery.zip (use it to flash stock recovery.img)
+- flash_u-boot_and_MLO.zip (use it to flash bootloader and xloader)
 
 --HD (succulent on XDA)
 - For help go here, http://forum.xda-developers.com/showthread.php?t=1545766
