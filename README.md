@@ -75,7 +75,10 @@ Other flashable Files
 - DO NOT FLASH it with other rom besides the rom created with these source and kernel.
 - flash_stock_recovery.zip (use it to restore stock recovery.img)
 - flash_u-boot_and_MLO.zip (use it to restore bootloader and xloader)
-- Flash this if all you get is a black screen (no 'n' logo screen) when turning your Nook Tablet on. 
+- flash this if all you get is a black screen (no 'n' logo screen) when turning your Nook Tablet on.
+- flash_stock_1.4.2.zip (use it to restore to stock 1.4.2)
+- after restart, it will take up to a couple minutes to setup data and system folder.
+- it'll be up to a couple of minutes before the setup screen shows up.
 
 --HD (succulent on XDA)
 - For help go here, http://forum.xda-developers.com/showthread.php?t=1545766
