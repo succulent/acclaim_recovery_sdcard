@@ -79,6 +79,8 @@ Other flashable Files
 - flash_stock_1.4.2.zip (use it to restore to stock 1.4.2)
 - after restart, it will take up to a couple minutes to setup data and system folder.
 - it'll be up to a couple of minutes before the setup screen shows up.
+- flash-restore-stock.zip (use it to restore partition 1-6)
+- you will need to install flash_stock_1.4.2.zip afterward or a CM7 rom.
 
 --HD (succulent on XDA)
 - For help go here, http://forum.xda-developers.com/showthread.php?t=1545766
