@@ -14,7 +14,12 @@ distributed under the License is distributed on an "<strong>AS IS</strong>" <str
 See the License for the specific language governing permissions and
 limitations under the License.
 
-<strong>WARNING:</strong> Everything listed here will be built on ALL platforms, including x86, the emulator, and the SDK. Modules must be uniquely named (liblights.acclaim), and must build everywhere, or limit themselves to only building on ARM if they include assembly. Individual makefiles are responsible for having their own logic, for fine-grained control.</pre>
+<strong>WARNING:</strong> Everything listed here will be built on 
+ALL platforms, including x86, the emulator, and the SDK. Modules 
+must be uniquely named (liblights.acclaim), and must build everywhere, 
+or limit themselves to only building on ARM if they include assembly. 
+Individual makefiles are responsible for having their own logic, 
+for fine-grained control.</pre>
 
 <hr />
 
